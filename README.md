@@ -1,18 +1,38 @@
-# Danya
+<img src="./assets/banner.svg" alt="Danya — full-stack & ML engineer" width="100%">
+
+#### `WHOAMI`
 
 Full-stack & ML engineer. I build production systems end-to-end — backend, frontend, and the infrastructure under them — and I work AI-native: LLM agents, MCP tooling, local models.
 
-**Currently working on**
-- Applied ML — demand forecasting (Nixtla stack: demand classification, conformal prediction intervals, hierarchical reconciliation, honest leak-free backtesting)
-- LLM-powered tooling and real-time agents
+#### `STACK`
 
-**Featured**
+![Python](https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=f4f4f0)
+![FastAPI](https://img.shields.io/badge/FastAPI-161616?style=flat-square&logo=fastapi&logoColor=f4f4f0)
+![Django](https://img.shields.io/badge/Django-161616?style=flat-square&logo=django&logoColor=f4f4f0)
+![TypeScript](https://img.shields.io/badge/TypeScript-161616?style=flat-square&logo=typescript&logoColor=f4f4f0)
+![React](https://img.shields.io/badge/React-161616?style=flat-square&logo=react&logoColor=f4f4f0)
+![Go](https://img.shields.io/badge/Go-161616?style=flat-square&logo=go&logoColor=f4f4f0)
+![Rust](https://img.shields.io/badge/Rust-161616?style=flat-square&logo=rust&logoColor=f4f4f0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161616?style=flat-square&logo=postgresql&logoColor=f4f4f0)
+![Docker](https://img.shields.io/badge/Docker-161616?style=flat-square&logo=docker&logoColor=f4f4f0)
+![Linux](https://img.shields.io/badge/Linux-161616?style=flat-square&logo=linux&logoColor=f4f4f0)
 
-[**tenebra**](https://github.com/Divaaaan/tenebra) — cross-platform VPN client built on sing-box.
-Tauri + Go + React. Stdlib-only core, honest leak-check, CI with race detector and end-to-end tests.
+#### `FEATURED`
 
-**Stack**
+| repo | what it is | stack | status |
+|------|------------|-------|--------|
+| [**tenebra**](https://github.com/Divaaaan/tenebra) | cross-platform VPN client on sing-box — stdlib-only core, honest leak-check, CI with race detector + e2e | `Go` · `Tauri` · `React` | `pre-release` |
 
-`Python` · `FastAPI` · `Django / DRF` · `TypeScript` · `React` · `Go` · `PostgreSQL` · `Docker` · `Linux`
+#### `CURRENTLY`
 
-**Reach me** — divanmexd@gmail.com
+- **applied ML** — demand forecasting on the Nixtla stack: demand classification, conformal prediction intervals, hierarchical reconciliation, honest leak-free backtesting
+- **LLM tooling** — real-time agents, MCP integrations, local-model pipelines
+
+#### `SIGNALS`
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Divaaaan&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0e0e0e&title_color=ff3d00&text_color=f4f4f0&icon_color=ff3d00&border_color=2a2a2a" alt="stats">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divaaaan&layout=compact&langs_count=8&hide_border=false&bg_color=0e0e0e&title_color=ff3d00&text_color=f4f4f0&border_color=2a2a2a" alt="top languages">
+
+#### `CONTACT`
+
+![Email](https://img.shields.io/badge/divanmexd@gmail.com-161616?style=flat-square&logo=gmail&logoColor=f4f4f0)
