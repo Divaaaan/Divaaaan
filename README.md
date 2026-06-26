@@ -22,6 +22,7 @@ Full-stack & ML engineer. I build production systems end-to-end — backend, fro
 | repo | what it is | stack | status |
 |------|------------|-------|--------|
 | [**tenebra**](https://github.com/Divaaaan/tenebra) | cross-platform VPN client on sing-box — stdlib-only core, honest leak-check, CI with race detector + e2e | `Go` · `Tauri` · `React` | `pre-release` |
+| [**Dota AI Coach**](https://github.com/Divaaaan/proj_d) | real-time coaching over Valve's official GSI — deterministic rule engine + LLM advice on a transparent overlay | `Python` · `FastAPI` · `Electron` | `early` |
 
 #### `CURRENTLY`
 
