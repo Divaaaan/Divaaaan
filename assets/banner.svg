@@ -1,33 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" width="880" height="240" role="img" aria-label="Danya — full-stack and ML engineer">
   <style>
-    text { font-family: "JetBrains Mono", "Departure Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; }
-    .label { fill: #8c8c88; font-size: 12px; letter-spacing: 2px; }
+    text { font-family: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; }
+    .fig   { fill: #ff3d00; font-size: 12px; letter-spacing: 3px; }
+    .cap   { fill: #8c8c88; font-size: 12px; letter-spacing: 2px; }
     .dim   { fill: #5a5a57; font-size: 11px; letter-spacing: 2px; }
-    .hero  { fill: #f4f4f0; font-size: 72px; font-weight: 800; letter-spacing: -3px; }
-    .acc   { fill: #ff3d00; font-size: 14.5px; letter-spacing: 4px; }
+    .hero  { fill: #f4f4f0; font-size: 80px; font-weight: 800; letter-spacing: -3px; }
+    .meas  { fill: #ff3d00; font-size: 12px; letter-spacing: 3.5px; }
     .sub   { fill: #8c8c88; font-size: 12.5px; letter-spacing: 0.5px; }
-    .live  { animation: blink 2.2s steps(1) infinite; }
-    @keyframes blink { 0%,55% { opacity: 1 } 56%,100% { opacity: 0.25 } }
   </style>
 
   <!-- canvas -->
   <rect x="0" y="0" width="880" height="240" fill="#0e0e0e"/>
+  <defs>
+    <pattern id="dots" x="0" y="0" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="11" cy="11" r="0.8" fill="#222220"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="878" height="238" fill="url(#dots)"/>
   <rect x="0.5" y="0.5" width="879" height="239" fill="none" stroke="#2a2a2a" stroke-width="1"/>
 
-  <!-- top bar -->
-  <text x="32" y="38" class="label">// SELF · PROFILE</text>
-  <circle cx="772" cy="34" r="3.5" fill="#00e676" class="live"/>
-  <text x="848" y="38" class="label" text-anchor="end" fill="#8c8c88">AVAILABLE</text>
-  <line x1="32" y1="54" x2="848" y2="54" stroke="#2a2a2a" stroke-width="1"/>
+  <!-- corner registration marks -->
+  <path d="M 20 36 V 20 H 36" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+  <path d="M 844 20 H 860 V 36" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+  <path d="M 860 204 V 220 H 844" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+  <path d="M 36 220 H 20 V 204" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+
+  <!-- drawing header -->
+  <text x="48" y="48" class="fig">FIG. 01</text>
+  <text x="128" y="48" class="cap">— ENGINEER · SELF-HOSTED</text>
+  <text x="832" y="48" class="dim" text-anchor="end">REV 2026-07</text>
 
   <!-- hero -->
-  <rect x="32" y="78" width="6" height="72" fill="#ff3d00"/>
-  <text x="54" y="142" class="hero">DANYA</text>
-  <text x="56" y="174" class="acc">FULL-STACK · ML · AI-NATIVE</text>
-  <text x="56" y="197" class="sub">production systems end-to-end — LLM agents · MCP · local models</text>
+  <text x="440" y="134" class="hero" text-anchor="middle">DANYA</text>
 
-  <!-- bottom bar -->
-  <line x1="32" y1="210" x2="848" y2="210" stroke="#2a2a2a" stroke-width="1"/>
-  <text x="32" y="229" class="dim">PYTHON · TYPESCRIPT · GO · RUST · POSTGRES · DOCKER</text>
-  <text x="848" y="229" class="dim" text-anchor="end">MOSCOW · UTC+3</text>
+  <!-- dimension line -->
+  <line x1="208" y1="163" x2="263" y2="163" stroke="#3a3a3a" stroke-width="1"/>
+  <line x1="208" y1="157" x2="208" y2="169" stroke="#3a3a3a" stroke-width="1"/>
+  <text x="440" y="167" class="meas" text-anchor="middle">FULL-STACK · ML · AI-NATIVE</text>
+  <line x1="617" y1="163" x2="672" y2="163" stroke="#3a3a3a" stroke-width="1"/>
+  <line x1="672" y1="157" x2="672" y2="169" stroke="#3a3a3a" stroke-width="1"/>
+
+  <text x="440" y="193" class="sub" text-anchor="middle">production systems end-to-end — LLM agents · MCP · local models</text>
+
+  <!-- drawing footer -->
+  <text x="48" y="224" class="dim">SCALE 1:1</text>
+  <text x="440" y="224" class="dim" text-anchor="middle">PYTHON · TYPESCRIPT · GO · RUST · POSTGRES · DOCKER</text>
+  <text x="832" y="224" class="dim" text-anchor="end">SHEET 880 × 240</text>
 </svg>
