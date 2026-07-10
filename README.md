@@ -31,8 +31,7 @@ Full-stack & ML engineer. I build production systems end-to-end — backend, fro
 
 #### `SIGNALS`
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Divaaaan&show_icons=true&count_private=true&hide_border=false&bg_color=0e0e0e&title_color=ff3d00&text_color=f4f4f0&icon_color=ff3d00&border_color=2a2a2a" alt="stats">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divaaaan&layout=compact&langs_count=8&hide_border=false&bg_color=0e0e0e&title_color=ff3d00&text_color=f4f4f0&border_color=2a2a2a" alt="top languages">
+<img src="./assets/signals.svg" alt="Language distribution and contribution stats" width="100%">
 
 #### `CONTACT`
 
