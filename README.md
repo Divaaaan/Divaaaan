@@ -21,6 +21,7 @@ Full-stack & ML engineer. I build production systems end-to-end — backend, fro
 
 | repo | what it is | stack | status |
 |------|------------|-------|--------|
+| [**procurement-forecasting**](https://github.com/Divaaaan/procurement-forecasting) | demand forecasting built around the ordering decision — quantile-of-sum orders, tiered service levels, order-level backtesting; benchmarked on M5 | `Python` · `Nixtla` · `LightGBM` | `v1` |
 | [**tenebra**](https://github.com/Divaaaan/tenebra) | cross-platform VPN client on sing-box — stdlib-only core, honest leak-check, CI with race detector + e2e | `Go` · `Tauri` · `React` | `pre-release` |
 | [**Dota AI Coach**](https://github.com/Divaaaan/proj_d) | real-time coaching over Valve's official GSI — deterministic rule engine + LLM advice on a transparent overlay | `Python` · `FastAPI` · `Electron` | `early` |
 
