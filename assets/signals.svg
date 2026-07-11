@@ -12,35 +12,35 @@
 
   <text x="32" y="36" class="fig">FIG. 02</text>
   <text x="112" y="36" class="cap">— LANGUAGE DISTRIBUTION · PUBLIC SRC</text>
-  <text x="848" y="36" class="dim" text-anchor="end">3 REPOS</text>
+  <text x="848" y="36" class="dim" text-anchor="end">4 REPOS</text>
 
-  <rect x="32.0" y="58" width="355.1" height="12" fill="#ff3d00"/>
-  <rect x="389.1" y="58" width="172.3" height="12" fill="#f4f4f0"/>
-  <rect x="563.5" y="58" width="125.5" height="12" fill="#8c8c88"/>
-  <rect x="691.0" y="58" width="79.1" height="12" fill="#5a5a57"/>
-  <rect x="772.1" y="58" width="31.7" height="12" fill="#3a3a3a"/>
-  <rect x="805.8" y="58" width="42.2" height="12" fill="#2a2a2a"/>
+  <rect x="32.0" y="58" width="343.4" height="12" fill="#ff3d00"/>
+  <rect x="377.4" y="58" width="144.3" height="12" fill="#f4f4f0"/>
+  <rect x="523.7" y="58" width="134.6" height="12" fill="#8c8c88"/>
+  <rect x="660.3" y="58" width="115.5" height="12" fill="#5a5a57"/>
+  <rect x="777.8" y="58" width="23.8" height="12" fill="#3a3a3a"/>
+  <rect x="803.6" y="58" width="44.4" height="12" fill="#2a2a2a"/>
 
   <rect x="32" y="94" width="8" height="8" fill="#ff3d00"/>
   <text x="50" y="102" class="lname">GO</text>
-  <text x="172" y="102" class="lval">44.1%</text>
+  <text x="172" y="102" class="lval">42.6%</text>
   <rect x="304" y="94" width="8" height="8" fill="#f4f4f0"/>
   <text x="322" y="102" class="lname">TYPESCRIPT</text>
-  <text x="444" y="102" class="lval">21.4%</text>
+  <text x="444" y="102" class="lval">17.9%</text>
   <rect x="576" y="94" width="8" height="8" fill="#8c8c88"/>
-  <text x="594" y="102" class="lname">RUST</text>
-  <text x="716" y="102" class="lval">15.6%</text>
+  <text x="594" y="102" class="lname">PYTHON</text>
+  <text x="716" y="102" class="lval">16.7%</text>
   <rect x="32" y="118" width="8" height="8" fill="#5a5a57"/>
-  <text x="50" y="126" class="lname">PYTHON</text>
-  <text x="172" y="126" class="lval">9.8%</text>
+  <text x="50" y="126" class="lname">RUST</text>
+  <text x="172" y="126" class="lval">14.3%</text>
   <rect x="304" y="118" width="8" height="8" fill="#3a3a3a"/>
   <text x="322" y="126" class="lname">CSS</text>
-  <text x="444" y="126" class="lval">3.9%</text>
+  <text x="444" y="126" class="lval">2.9%</text>
   <rect x="576" y="118" width="8" height="8" fill="#2a2a2a"/>
   <text x="594" y="126" class="lname">OTHER</text>
-  <text x="716" y="126" class="lval">5.2%</text>
+  <text x="716" y="126" class="lval">5.5%</text>
 
   <line x1="32" y1="136" x2="848" y2="136" stroke="#2a2a2a" stroke-width="1"/>
-  <text x="32" y="156" class="dim">CONTRIBUTIONS · 365D — 1251</text>
-  <text x="848" y="156" class="dim" text-anchor="end">PLOTTED 2026-07-10</text>
+  <text x="32" y="156" class="dim">CONTRIBUTIONS · 365D — 1358</text>
+  <text x="848" y="156" class="dim" text-anchor="end">PLOTTED 2026-07-11</text>
 </svg>
