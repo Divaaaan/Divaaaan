@@ -14,11 +14,11 @@
   <text x="112" y="36" class="cap">— LANGUAGE DISTRIBUTION · PUBLIC SRC</text>
   <text x="848" y="36" class="dim" text-anchor="end">4 REPOS</text>
 
-  <rect x="32.0" y="58" width="348.3" height="12" fill="#ff3d00"/>
-  <rect x="382.3" y="58" width="185.9" height="12" fill="#f4f4f0"/>
-  <rect x="570.2" y="58" width="113.2" height="12" fill="#8c8c88"/>
-  <rect x="685.4" y="58" width="97.9" height="12" fill="#5a5a57"/>
-  <rect x="785.3" y="58" width="28.2" height="12" fill="#3a3a3a"/>
+  <rect x="32.0" y="58" width="348.5" height="12" fill="#ff3d00"/>
+  <rect x="382.5" y="58" width="186.1" height="12" fill="#f4f4f0"/>
+  <rect x="570.5" y="58" width="113.1" height="12" fill="#8c8c88"/>
+  <rect x="685.6" y="58" width="97.7" height="12" fill="#5a5a57"/>
+  <rect x="785.4" y="58" width="28.2" height="12" fill="#3a3a3a"/>
   <rect x="815.5" y="58" width="32.5" height="12" fill="#2a2a2a"/>
 
   <rect x="32" y="94" width="8" height="8" fill="#ff3d00"/>
@@ -29,7 +29,7 @@
   <text x="444" y="102" class="lval">23.1%</text>
   <rect x="576" y="94" width="8" height="8" fill="#8c8c88"/>
   <text x="594" y="102" class="lname">RUST</text>
-  <text x="716" y="102" class="lval">14.1%</text>
+  <text x="716" y="102" class="lval">14.0%</text>
   <rect x="32" y="118" width="8" height="8" fill="#5a5a57"/>
   <text x="50" y="126" class="lname">PYTHON</text>
   <text x="172" y="126" class="lval">12.1%</text>
@@ -41,6 +41,6 @@
   <text x="716" y="126" class="lval">4.0%</text>
 
   <line x1="32" y1="136" x2="848" y2="136" stroke="#2a2a2a" stroke-width="1"/>
-  <text x="32" y="156" class="dim">CONTRIBUTIONS · 365D — 1733</text>
-  <text x="848" y="156" class="dim" text-anchor="end">PLOTTED 2026-07-13</text>
+  <text x="32" y="156" class="dim">CONTRIBUTIONS · 365D — 1741</text>
+  <text x="848" y="156" class="dim" text-anchor="end">PLOTTED 2026-07-14</text>
 </svg>
