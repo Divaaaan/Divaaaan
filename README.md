@@ -2,7 +2,7 @@
 
 #### `WHOAMI`
 
-Full-stack & ML engineer. I build production systems end-to-end — backend, frontend, and the infrastructure under them — and I work AI-native: LLM agents, MCP tooling, local models.
+Full-stack & ML engineer. I build production systems end-to-end — backend, frontend, and the infrastructure under them — and I work AI-native: LLM agents, agent memory systems, MCP tooling, local models.
 
 #### `STACK`
 
@@ -22,13 +22,14 @@ Full-stack & ML engineer. I build production systems end-to-end — backend, fro
 | repo | what it is | stack | status |
 |------|------------|-------|--------|
 | [**procurement-forecasting**](https://github.com/Divaaaan/procurement-forecasting) | demand forecasting built around the ordering decision — quantile-of-sum orders, tiered service levels, order-level backtesting; benchmarked on M5 | `Python` · `Nixtla` · `LightGBM` | `v1` |
-| [**tenebra**](https://github.com/Divaaaan/tenebra) | cross-platform VPN client on sing-box — stdlib-only core, honest leak-check, CI with race detector + e2e | `Go` · `Tauri` · `React` | `pre-release` |
+| [**tenebra**](https://github.com/Divaaaan/tenebra) | cross-platform VPN client on sing-box — stdlib-only core, honest leak-check, CI with race detector + e2e; ships for Windows, macOS and Linux | `Go` · `Tauri` · `React` | `v0.4.6` |
+| [**claude-memory-template**](https://github.com/Divaaaan/claude-memory-template) | file-based persistent memory for CLI coding agents — layered markdown vault, always-on index under a hard 17KB budget, CI-enforced entropy control | `Markdown` · `Python` · `git` | `v1` |
 | [**Dota AI Coach**](https://github.com/Divaaaan/proj_d) | real-time coaching over Valve's official GSI — deterministic rule engine + LLM advice on a transparent overlay | `Python` · `FastAPI` · `Electron` | `early` |
 
 #### `CURRENTLY`
 
 - **applied ML** — demand forecasting on the Nixtla stack: demand classification, conformal prediction intervals, hierarchical reconciliation, honest leak-free backtesting
-- **LLM tooling** — real-time agents, MCP integrations, local-model pipelines
+- **LLM tooling** — real-time agents, MCP integrations, local-model pipelines, and persistent memory that keeps agents useful across months of sessions
 
 #### `SIGNALS`
 
